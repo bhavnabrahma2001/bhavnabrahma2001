@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there! 👋 
 ## 🚀About me
 🎓 I am currently pursuing my Bachelor's degree in **Artificial Intelligence and Machine Learning**. My journey in the tech world has fueled a strong passion for data analysis, and I am eager to build a career as a **Data Analyst**.
 
