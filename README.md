@@ -13,13 +13,14 @@ Here are a few projects that showcase my skills and interests:
 1. **Airolysis - Airline Analysis**
 2. **Facial Emotion-based Song Recommendation**
 3. **Web-based Real-time Child Surveillance System**
-4. **Mind Sanctuary**
-5. **MediCar**
+4. **Mind Sanctuary-Web Application** 
+5. **MediCar-Web Application** 
 
 ## 🎖️ Achievements:
 - 🏆**4th Place** QuantumX-22 24 hour Hackathon _(December 2022)_
 - 🤝Participated in **CP Hackathon** _(March 2023)_
-- Project demonstration selected to be presented and funded by **KSCST** - Karnataka State Council of Science and Technology _(June 2024)_
+- 📜Project demonstration selected to be presented and funded by **KSCST** - Karnataka State Council of Science and Technology _(June 2024)_
+- 📜Presented a paper(Web-based Real-time Child Surveillance System) in the **15th International Conference on Recent Engineering and Technology** organized by Sri Venkateshwara College of Engineering 
   
 
 ### 📫 How to Reach Me:
