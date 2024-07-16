@@ -10,7 +10,7 @@ Outside the world of tech, I enjoy exploring new hobbies and skills. My interest
 ## 💼 Projects:
 Here are a few projects that showcase my skills and interests:
 
-1. **Airolysis - Airline Analysis**
+1. **[Airolysis - Airline Analysis](https://github.com/bhavnabrahma2001/Airolysis-Airline-Analysis)**
 2. **Facial Emotion Detector**
 3. **Facial Emotion-based Song Recommendation**
 4. **Web-based Real-time Child Surveillance System**
