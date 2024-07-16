@@ -11,10 +11,11 @@ Outside the world of tech, I enjoy exploring new hobbies and skills. My interest
 Here are a few projects that showcase my skills and interests:
 
 1. **Airolysis - Airline Analysis**
-2. **Facial Emotion-based Song Recommendation**
-3. **Web-based Real-time Child Surveillance System**
-4. **Mind Sanctuary-Web Application** 
-5. **MediCar-Web Application** 
+2. **Facial Emotion Detector**
+3. **Facial Emotion-based Song Recommendation**
+4. **Web-based Real-time Child Surveillance System**
+5. **Mind Sanctuary-Web Application** 
+6. **MediCar-Web Application** 
 
 ## 🎖️ Achievements:
 - 🏆**4th Place** QuantumX-22 24 hour Hackathon _(December 2022)_
