@@ -14,8 +14,8 @@ Here are a few projects that showcase my skills and interests:
 2. **Facial Emotion Detector**
 3. **Facial Emotion-based Song Recommendation**
 4. **Web-based Real-time Child Surveillance System**
-5. **Mind Sanctuary-Web Application** 
-6. **MediCar-Web Application** 
+5. **[Mind Sanctuary-Web Application](https://github.com/Shazib-Wani/MindSanctuary)** 
+6. **[MediCar-Web Application](https://github.com/Shazib-Wani/MediCar)** 
 
 ## 🎖️ Achievements:
 - 🏆**4th Place** QuantumX-22 24 hour Hackathon _(December 2022)_
