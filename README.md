@@ -11,7 +11,7 @@ Outside the world of tech, I enjoy exploring new hobbies and skills. My interest
 Here are a few projects that showcase my skills and interests:
 
 1. **[Airolysis - Airline Analysis](https://github.com/bhavnabrahma2001/Airolysis-Airline-Analysis)**
-2. **Facial Emotion Detector**
+2. **[Facial Emotion Detector](https://github.com/bhavnabrahma2001/Facial-emotion-detector)**
 3. **Facial Emotion-based Song Recommendation**
 4. **Web-based Real-time Child Surveillance System**
 5. **[Mind Sanctuary-Web Application](https://github.com/Shazib-Wani/MindSanctuary)** 
