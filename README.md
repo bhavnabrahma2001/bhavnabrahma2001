@@ -1,6 +1,6 @@
 # Hi there! 👋 
 ## 🚀About me
-🎓 I am currently pursuing my Bachelor's degree in **Artificial Intelligence and Machine Learning**. My journey in the tech world has fueled a strong passion for data analysis, and I am eager to build a career as a **Data Analyst**.
+🎓 I completed my Bachelor's degree in **Artificial Intelligence and Machine Learning**. My journey in the tech world has fueled a strong passion for data analysis, and I am eager to build a career as a **Data Analyst**.
 
 📊 Over the past year, I have completed projects in predictive analytics, object detection, and recommendation systems. These experiences have honed my skills in data cleaning, statistical analysis, and machine learning, using tools like Python, R, Pandas, NumPy, Scikit-Learn, Matplotlib, and TensorFlow.
 
